@@ -1,1 +1,1 @@
-"# Computaci-n-Grafica" 
+"# Computacion-Grafica" 
